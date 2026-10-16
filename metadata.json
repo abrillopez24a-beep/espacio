@@ -1,0 +1,6 @@
+{
+  "name": "Neon Overdrive - Arcade 2D Game",
+  "description": "Juego arcade 2D retro-futurista completo con naves, power-ups, jefes épicos, efectos de sonido sintetizados y gráficos de neón en Canvas nativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
